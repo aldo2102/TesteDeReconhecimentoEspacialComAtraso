@@ -1,2 +1,2 @@
 # TesteDeReconhecimentoEspacialComAtraso
-DESENVOLVIMENTO DO TESTE DE RECONHECIMENTO ESPACIAL COM ATRASO PARA DISPOSITIVOS MÓVEIS
+Projeto de desenvolvimento do Teste de Reconhecimento Espacial com Atraso (TREA) para dispositivos móveis. A plataforma será desenvolvida por estudantes do curso de Sistema de informação do Centro Universitário Euro Americano e possui como objetivo a migração do TestPlataform (versão desktop) para o meio mobile. 
